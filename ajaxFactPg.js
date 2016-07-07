@@ -1,5 +1,5 @@
 /*
-* factory
+* factory for postgresql backend
 */
 
 /**
